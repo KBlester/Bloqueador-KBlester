@@ -1,2 +1,2 @@
 # Bloqueador-KBlester
-Script
+skript
